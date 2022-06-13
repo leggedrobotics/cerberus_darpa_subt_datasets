@@ -2,7 +2,7 @@
 This repository contains information and links about the datasets collected by Team CERBERUS during the DARPA Subterranean Challenge.
 
 ## Credits
-Autonomous Robots Lab ([ARL](https://www.autonomousrobotslab.com/)), Robotic Systems Lab ([RSL](https://rsl.ethz.ch/)), Autonomous Systems Lab ([ASL](https://asl.ethz.ch/)), Oxford Robotics Institute ([ORI](https://ori.ox.ac.uk/))
+Autonomous Robots Lab ([ARL](https://www.autonomousrobotslab.com/)), Robotic Systems Lab ([RSL](https://rsl.ethz.ch/)), Autonomous Systems Lab ([ASL](https://asl.ethz.ch/)), Dynamic Robot Systems Group ([DRS](https://ori.ox.ac.uk/labs/drs/)).
 
 ## DARPA Subterranean Challenge
 What was the DARPA SubT Challenge?
