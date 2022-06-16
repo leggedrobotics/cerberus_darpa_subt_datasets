@@ -8,12 +8,12 @@ Autonomous Robots Lab ([ARL](https://www.autonomousrobotslab.com/)), Robotic Sys
 What was the DARPA SubT Challenge?
 > The Subterranean (SubT) Challenge was a Defense Advanced Research Projects Agency (DARPA) program to develop innovative technologies that can augment underground operations. The SubT Challenge program explored new approaches to rapidly map, navigate, search, and exploit complex underground environments such as human-made tunnel systems, urban underground, and natural cave networks.
 
-More info at [DARPA SubT](https://www.darpa.mil/program/darpa-subterranean-challenge)
+More info at [DARPA SubT](https://www.darpa.mil/program/darpa-subterranean-challenge).
 
 ## Team CERBERUS
 Team CERBERUS was an international partnership involving the University of Nevada Reno, ETH Zurich, the Norwegian University of Science and Technology (NTNU), University of California Berkeley, University of Oxford, and Flyability.
 
-More info at [subt-cerberus.org](https://www.subt-cerberus.org/)
+More info at [subt-cerberus.org](https://www.subt-cerberus.org/).
 
 ## Publications
 If you use these datasets in an academic context, please cite the following publications:
@@ -47,7 +47,10 @@ If you use these datasets in an academic context, please cite the following publ
 The following datasets are available online:
 
 ### Final Event
-This archive ([link](todo) **TODO: marcot** ) contains sensor data collected on-board the four ANYmal C robots used by Team CERBERUS in their winning run in the DARPA Subterranean Challenge finals. The prize round of the DARPA SubT Final Event took place at the Louisville Mega Cavern in Kentucky on the 23th September 2021. The datasets contain stereo images with synchronized IMU measurements, LiDAR measurements, and ground-truth structure.
+
+**Dataset**: [link](https://www.research-collection.ethz.ch/handle/20.500.11850/552248).
+
+This archive contains sensor data collected on-board the four ANYmal C robots used by Team CERBERUS in their winning run in the DARPA Subterranean Challenge finals. The prize round of the DARPA SubT Final Event took place at the Louisville Mega Cavern in Kentucky on the 23th September 2021. The dataset contains stereo images with synchronized IMU measurements, LiDAR measurements, and ground-truth structure.
 
 #### Available Data
 - Visual-Inertial Sensor Unit: Sevensense “Alphasense Core” ([link](https://github.com/sevensense-robotics/alphasense_core_manual))
