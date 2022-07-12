@@ -18,6 +18,21 @@ More info at [subt-cerberus.org](https://www.subt-cerberus.org/).
 ## Publications
 If you use these datasets in an academic context, please cite the following publications:
 
+> M. Tranzatto, M.Dharmadhikari, L. Bernreiter, M. Camurri, S. Khattak, F. Mascarich, P. Pfreundschuh, D. Wisth, S. Zimmermann, M. Kulkarni, V. Reijgwart, B. Casseau, T. Homberger, P. De Petris, L. Ott, W. Tubby, G. Waibel, H. Nguyen, C. Cadena, R. Buchanan, L. Wellhausen, N. Khedekar, O. Andersson , L. Zhang , T. Miki , T. Dang, M. Mattamala, M. Montenegro, K. Meyer, X. Wu, A. Briod, M. Mueller, M. Fallon , R. Siegwart, M. Hutter, K. Alexis
+> **"Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned"**,
+> in Field Robotics (2022) (submitted).
+
+    @misc{https://doi.org/10.48550/arxiv.2207.04914,
+      doi = {10.48550/ARXIV.2207.04914},
+      url = {https://arxiv.org/abs/2207.04914},
+      author = {Tranzatto, Marco and Dharmadhikari, Mihir and Bernreiter, Lukas and Camurri, Marco and Khattak, Shehryar and Mascarich, Frank and Pfreundschuh, Patrick and Wisth, David and Zimmermann, Samuel and Kulkarni, Mihir and Reijgwart, Victor and Casseau, Benoit and Homberger, Timon and De Petris, Paolo and Ott, Lionel and Tubby, Wayne and Waibel, Gabriel and Nguyen, Huan and Cadena, Cesar and Buchanan, Russell and Wellhausen, Lorenz and Khedekar, Nikhil and Andersson, Olov and Zhang, Lintong and Miki, Takahiro and Dang, Tung and Mattamala, Matias and Montenegro, Markus and Meyer, Konrad and Wu, Xiangyu and Briod, Adrien and Mueller, Mark and Fallon, Maurice and Siegwart, Roland and Hutter, Marco and Alexis, Kostas},
+      keywords = {Robotics (cs.RO), FOS: Computer and information sciences, FOS: Computer and information sciences},
+      title = {Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned},
+      publisher = {arXiv},
+      year = {2022},
+      copyright = {arXiv.org perpetual, non-exclusive license}
+    }
+
 > M. Tranzatto, T. Miki, M. Dharmadhikari, L. Bernreiter, M. Kulkarni, F. Mascarich, O. Andersson, S. Khattak, M. Hutter, R. Siegwart, K. Alexis
 > **"CERBERUS in the DARPA Subterranean Challenge"**,
 > in Science Robotics (2022).
@@ -37,11 +52,6 @@ If you use these datasets in an academic context, please cite the following publ
       abstract = {This article presents the core technologies and deployment strategies of Team CERBERUS that enabled our winning run in the DARPA Subterranean Challenge finals. CERBERUS is a robotic system-of-systems involving walking and flying robots presenting resilient autonomy, as well as mapping and navigation capabilities to explore complex underground environments. This article details the winning performance of Team CERBERUS in the DARPA Subterranean Challenge Final Event.}
     }
 
-> M. Tranzatto, M.Dharmadhikari, L. Bernreiter, M. Camurri, S. Khattak, F. Mascarich, P. Pfreundschuh, D. Wisth, S. Zimmermann, M. Kulkarni, V. Reijgwart, B. Casseau, T. Homberger, P. De Petris, L. Ott, W. Tubby, G. Waibel, H. Nguyen, C. Cadena, R. Buchanan, L. Wellhausen, N. Khedekar, O. Andersson , L. Zhang , T. Miki , T. Dang, M. Mattamala, M. Montenegro, K. Meyer, X. Wu, A. Briod, M. Mueller, M. Fallon , R. Siegwart, M. Hutter, K. Alexis
-> **"Team CERBERUS Wins the DARPA Subterranean Challenge: Technical Overview and Lessons Learned"**,
-> in Field Robotics (2022) (submitted).
-
-    Bibtex reference coming soon!
 
 ## Datasets
 The following datasets are available online:
